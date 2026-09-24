@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787687544092,
+      "tag": "0000_unknown_the_professor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787693387896,
+      "tag": "0001_groovy_luminals",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787693584718,
+      "tag": "0002_careless_runaways",
+      "breakpoints": true
+    }
+  ]
+}
